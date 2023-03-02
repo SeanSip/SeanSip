@@ -4,7 +4,7 @@ Web Developer and Designer
 --------------------------
 Hi Reader! Sean is Canadian-born and of Croatian & Hungarian background, currently living in Canada and jumping into the Web Development industry. His expertise are in front-end web development; having graduated from a Coding Bootcamp, and building up his skill set ever since, he is ready to build web-based applications with his capabilities in React.js, Next.js, Javascript (ES6+), HTML5, CSS3, API integrations, and much more. 
 
-When he is not busy spending time at my computer or playing hockey, he is eagerly looking to converse with all sorts of unique individuals in the Web Development and Tech space. His passions lie in general self-improvement; whether it be improving his coding & programming abilities, deepening his Japanese language comprehension, or bettering his Hockey stats, he is all about building upon his foundations.
+When he is not busy spending time at his computer or playing hockey, he is eagerly looking to converse with all sorts of unique individuals in the Web Development and Tech space. His passions lie in general self-improvement; whether it be improving his coding & programming abilities, deepening his Japanese language comprehension, or bettering his Hockey stats, he is all about building upon his foundations.
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [https://seansipus.com](http://seansipus.com)
 * ✉️  You can contact me at [webdev@seansipus.com](mailto:webdev@seansipus.com)
